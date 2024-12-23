@@ -4,3 +4,12 @@ Our Photographer Portfolio Website Template is a sleek, modern, and fully respon
 
 
 ![photographer](https://github.com/user-attachments/assets/9eda1ba9-fcfb-439d-918e-ca13d11efc6d)
+
+
+### Key Features
+- HTML5, CSS3 & Bootstrap: Built with the latest web technologies for a modern, clean look.
+- Fully Responsive Design: The template adjusts perfectly across desktops, tablets, and mobile devices.
+- Easy Customization: Personalize colors, fonts, and layouts to match your brand or style.
+- SEO-Friendly: Structured to help improve search engine visibility and drive more traffic to your site.
+- High Performance: Optimized for fast loading times and smooth user experience.
+- E-Commerce Ready: Built-in sections for adding products and services, ideal for photographers selling prints or packages.
