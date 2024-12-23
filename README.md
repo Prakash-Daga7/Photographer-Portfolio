@@ -16,6 +16,11 @@ Our Photographer Portfolio Website Template is a sleek, modern, and fully respon
 
 
   #### Live Demo
-heck out a live demo of the templat
-                 https://wphtml.com/html/tf/anushka/
+Check out a live demo of the template  https://wphtml.com/html/tf/anushka/
+
+
+### Installation
+- Clone or download this repository.
+- Open the  `index.html` file in your browser to preview the template.
+- Customize the sections as needed and deploy on your preferred hosting platform.
   
