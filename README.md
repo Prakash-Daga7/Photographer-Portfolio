@@ -15,7 +15,7 @@ Our Photographer Portfolio Website Template is a sleek, modern, and fully respon
 - E-Commerce Ready: Built-in sections for adding products and services, ideal for photographers selling prints or packages.
 
 
-  ### Live Demo
+### Live Demo
 Check out a live demo of the template  https://wphtml.com/html/tf/anushka/
 
 
