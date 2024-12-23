@@ -16,6 +16,6 @@ Our Photographer Portfolio Website Template is a sleek, modern, and fully respon
 
 
   #### Live Demo
-  heck out a live demo of the template
-                                file:///C:/Users/DHANUSH/Desktop/GitHub/photographer-main/anushka/index-2.html
+heck out a live demo of the templat
+                 https://wphtml.com/html/tf/anushka/
   
